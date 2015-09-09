@@ -33,7 +33,7 @@ var styles = {
     bottom: 0,
     overflow: 'hidden' },
   sidebar: {
-    zIndex: 2,
+    zIndex: 4,
     position: 'absolute',
     top: 0,
     left: 0,
@@ -55,7 +55,7 @@ var styles = {
     overflow: 'auto',
     transition: 'left .3s ease-out' },
   overlay: {
-    zIndex: 1,
+    zIndex: 3,
     position: 'fixed',
     top: 0,
     left: 0,
